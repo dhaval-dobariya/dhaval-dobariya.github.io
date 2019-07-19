@@ -8,4 +8,4 @@ I am FullStack iOS application developer I can also hanlde backend by developing
 
 ### Support or Contact
 
-Need any Help? Contact on [Dhaval Dobariya](dobariyadhaval2020@gmail.com).
+Need any Help? Contact on [Dhaval Dobariya](mailto:dobariyadhaval2020@gmail.com).
