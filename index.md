@@ -4,7 +4,7 @@ I am experienced iOS application developer, I have 5+ years of experience in dev
 
 You can use hire me on [upwork](https://www.upwork.com/fl/dobariyadhaval) to develop iOS applications.
 
-I am FullStack iOS application developer I can also hanlde backend by developing Rest API using Python or I can also develop serverless or backend less application using Firebase or AWS's several services to manage data and fucntionalities.
+I am FullStack iOS application developer I can also hanlde backend by developing Rest API using Python or I can also develop serverless or backend less application using Firebase's or AWS's several services to manage data and fucntionalities.
 
 ### Support or Contact
 
