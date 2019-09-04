@@ -8,7 +8,6 @@ I am FullStack iOS application developer I can also hanlde backend by developing
 
 You can have a look at my previous work:
 
-* [Bazl](https://itunes.apple.com/us/app/bazl/id1271338978?mt=8)
 * [FlixCinema](https://apps.apple.com/us/app/flixcinema/id1216604696)
 * [Superpersonal](https://apps.apple.com/us/app/superpersonal/id1450291423)
 * [GlobalRose Fresh Flowers Free Delivery](https://itunes.apple.com/in/app/globalrose-fresh-flowers-free-delivery/id1020557761?mt=8)
