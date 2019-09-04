@@ -14,7 +14,8 @@ You can have a look at my previous work:
 * [BreakBuddy](https://itunes.apple.com/us/app/breakbuddy/id1191169954?mt=8)
 * [Scrambled Text](https://apps.apple.com/us/app/scrambled-txt/id1463573695?ls=1)
 * [QRCodeAgent](https://apps.apple.com/us/app/qrcodeagent/id1414426396?ls=1)
-
+* [The Parent Locker](https://apps.apple.com/us/app/the-parent-locker/id1220676321)
+* [Huriyo](https://apps.apple.com/us/app/huriyo/id1369652672?ls=1)
 
 ### Support or Contact
 
