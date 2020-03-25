@@ -9,6 +9,10 @@ I am FullStack iOS application developer I can also hanlde backend by developing
 
 You can have a look at my previous work:
 
+* [GullyCricket - Fantasy Sports](https://apps.apple.com/us/app/gully-cricket-fantasy/id1490300794)
+* [Live Wallpapers HD to iPhon](https://apps.apple.com/us/app/live-wallpapers-hd-to-iphone/id1491444186)
+* [Venturis](https://apps.apple.com/us/app/venturis/id1436329159)
+* [Global Paystub Calculator](https://apps.apple.com/us/app/global-paystub-calculator/id1357919469)
 * [FlixCinema](https://apps.apple.com/us/app/flixcinema/id1216604696)
 * [Superpersonal](https://apps.apple.com/us/app/superpersonal/id1450291423)
 * [GlobalRose Fresh Flowers Free Delivery](https://itunes.apple.com/in/app/globalrose-fresh-flowers-free-delivery/id1020557761?mt=8)
