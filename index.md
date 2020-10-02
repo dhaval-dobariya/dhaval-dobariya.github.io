@@ -7,6 +7,20 @@ You can use hire me on [Upwork](https://www.upwork.com/fl/dobariyadhaval) or [Fr
 
 I am FullStack iOS application developer I can also hanlde backend by developing Rest API using Python or I can also develop serverless or backend less application using Firebase's or AWS's several services to manage data and fucntionalities.
 
+#### Services I am providing
+
+- Migrate Projects 
+  -> Convert Objective-C project to latest Swift project 
+  -> Convert old Swift project to latest Swift Project 
+- Maintain old Objective-C project and add more features over the time 
+- Native iOS & Android apps development
+- API Integrations, socket connections, etc,
+- Rest APIs Development using Python 
+- Server-less Apps using AWS or Firebase SDKs 
+- Version control using BitBucket, Git, GitLab. 
+- Task management using Trello, Asana, GitLab 
+- Extensive knowledge in object-oriented software development, MVC, MVVM, VIPER architecture, multithreading, networking and memory management.
+
 You can have a look at my previous work:
 
 * [CIRCLES BY DISEO](https://apps.apple.com/us/app/circles-by-diseo/id1511916445)
