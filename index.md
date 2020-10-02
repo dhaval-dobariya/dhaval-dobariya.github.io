@@ -10,8 +10,8 @@ I am FullStack iOS application developer I can also hanlde backend by developing
 #### Services I am providing
 
 - Migrate Projects 
-  -> Convert Objective-C project to latest Swift project 
-  -> Convert old Swift project to latest Swift Project 
+  - Convert Objective-C project to latest Swift project 
+  - Convert old Swift project to latest Swift Project 
 - Maintain old Objective-C project and add more features over the time 
 - Native iOS & Android apps development
 - API Integrations, socket connections, etc,
