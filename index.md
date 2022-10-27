@@ -23,6 +23,8 @@ I am FullStack iOS application developer I can also hanlde backend by developing
 
 You can have a look at my previous work:
 
+* [Dhani: Online Shopping App](https://apps.apple.com/in/app/dhani-credit-and-online-store/id1273192455)
+* [OMRON connect](https://apps.apple.com/in/app/omron-connect/id1003177043)
 * [GullyCricket - Fantasy Sports](https://apps.apple.com/us/app/gully-cricket-fantasy/id1490300794)
 * [Live Wallpapers HD to iPhon](https://apps.apple.com/us/app/live-wallpapers-hd-to-iphone/id1491444186)
 * [Venturis](https://apps.apple.com/us/app/venturis/id1436329159)
