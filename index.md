@@ -3,7 +3,7 @@
 I am experienced iOS application developer, I have 6+ years of experience in developing iOS application using Swift or Objective-C. I am developing iOS applications by following MVC or MVVM coding pattern.
 
 You can refer my profile on [LinkedIn](https://www.linkedin.com/in/dhaval-dobariya-007/).
-You can use hire me on [Upwork](https://www.upwork.com/fl/dobariyadhaval) or [Freelancer](https://www.freelancer.com/u/D3007) to develop iOS applications.
+You can use hire me on [Upwork](https://www.upwork.com/fl/dobariyadhaval) to develop iOS applications.
 
 I am FullStack iOS application developer I can also hanlde backend by developing Rest API using Python or I can also develop serverless or backend less application using Firebase's or AWS's several services to manage data and fucntionalities.
 
